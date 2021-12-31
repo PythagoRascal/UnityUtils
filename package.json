@@ -1,0 +1,19 @@
+{
+	"version": "1.0.0",
+	"name": "com.pythagorascal.unity-utils",
+
+	"displayName": "PythagoRascal - UnityUtils",
+	"description": "Some utils I often use",
+	"unity": "2017.1",
+
+	"keywords": [
+		"PythagoRascal",
+		"Editor",
+		"Hierarchy",
+		"Colour"
+	],
+	"author": {
+		"name": "PythagoRascal",
+		"url": "https://github.com/PythagoRascal/UnityUtils"
+	}
+}
